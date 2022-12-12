@@ -6,7 +6,7 @@
 ### Hello World! :octocat:
 
 
-_Meu nome é Pedro Costa, sou capixaba, tenho 25 anos e resido na Zona Oeste de São Paulo, na grande Oz._ 
+_Meu nome é Pedro Costa, sou capixaba nascido em 1996 e resido na Zona Oeste de São Paulo, na grande Oz._ 
 <br>
 _Tenho experiência na resolução de problemas em sistemas ERP, manipulando e custodiando dados de aplicações legadas. Meu passatempo preferido é ler, porque sou apaixonado por descobrir coisas novas. Espero poder aprender bastante com vocês!_
 
@@ -15,7 +15,7 @@ _Tenho experiência na resolução de problemas em sistemas ERP, manipulando e c
 ### Minhas redes:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovmcosta/)
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://g.dev/petraiosklytometis)
-<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1661310769/download20220801223119_fltjrd.png">
+<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670881960/WhatsApp_Image_2022-12-03_at_00.07.11_2_jygtkd.jpg">
 </div>
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
