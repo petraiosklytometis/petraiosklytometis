@@ -50,6 +50,7 @@ _Welcome to my GitHub profile!_
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
 ![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petraiosklytometis&layout=compact&theme=radical)
 
 ![Snake animation](https://github.com/petraiosklytometis/petraiosklytometis/blob/output/github-contribution-grid-snake.svg)
