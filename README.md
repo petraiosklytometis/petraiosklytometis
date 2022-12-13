@@ -1,8 +1,4 @@
 
-
-<img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
-</div>
-
 ### Hello World! :octocat:
 
 
@@ -10,6 +6,9 @@ _Hello, World! My name is Pedro Costa and I'm Web Developer._
 <br>
 _Welcome to my GitHub profile!_
 
+<img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petraiosklytometis&layout=compact&langs_count=7&theme=dracula"/>
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
 ### Minhas redes:
@@ -20,6 +19,9 @@ _Welcome to my GitHub profile!_
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
 ### Tecnologias:
+
+<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
+
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -45,7 +47,6 @@ _Welcome to my GitHub profile!_
 )
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
