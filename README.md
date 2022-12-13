@@ -1,21 +1,20 @@
 
 
-<img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1661312633/tux_u6hzwo.jpg">
+<img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
 </div>
 
 ### Hello World! :octocat:
 
 
-_Meu nome é Pedro Costa, sou capixaba nascido em 1996 e resido na Zona Oeste de São Paulo, na grande Oz._ 
+_Hello, World! My name is Pedro Costa and I'm Web Developer._ 
 <br>
-_Tenho experiência na resolução de problemas em sistemas ERP, manipulando e custodiando dados de aplicações legadas. Meu passatempo preferido é ler, porque sou apaixonado por descobrir coisas novas. Espero poder aprender bastante com vocês!_
+_Welcome to my GitHub profile!_
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
 ### Minhas redes:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovmcosta/)
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://g.dev/petraiosklytometis)
-<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670881960/WhatsApp_Image_2022-12-03_at_00.07.11_2_jygtkd.jpg">
 </div>
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
@@ -45,6 +44,8 @@ _Tenho experiência na resolução de problemas em sistemas ERP, manipulando e c
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
