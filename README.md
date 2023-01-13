@@ -6,7 +6,8 @@ _Hello, World! My name is Pedro Costa and I'm Web Developer._
 <br>
 _Welcome to my GitHub profile!_
 
-<img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
+<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=dracula&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petraiosklytometis&layout=compact&theme=dracula"/>
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
@@ -20,7 +21,7 @@ _Welcome to my GitHub profile!_
 
 ### Tecnologias:
 
-<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
+<img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
 
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
