@@ -7,7 +7,8 @@ _Hello, World! My name is Pedro Costa and I'm Web Developer._
 _Welcome to my GitHub profile!_
 
 <img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petraiosklytometis&layout=compact&theme=dracula"/>
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
 ### Minhas redes:
