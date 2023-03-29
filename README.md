@@ -2,7 +2,7 @@
 ### Hello World! :octocat:
 
 
-_Hello, World! My name is Pedro Costa and I'm Web Developer._ 
+_Hello, World! My name is Pedro Costa._ 
 <br>
 _Welcome to my GitHub profile!_
 
