@@ -6,7 +6,7 @@ _Hello, World! My name is Pedro Costa._
 <br>
 _Welcome to my GitHub profile!_
 
-<img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
+<img align="left" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=dracula&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petraiosklytometis&show_icons=true&layout=compact&theme=dracula"/>
