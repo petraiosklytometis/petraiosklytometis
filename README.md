@@ -43,5 +43,7 @@ _Welcome to my GitHub profile!_
 )
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![snake gif](https://github.com/petraiosklytometis/petraiosklytometis/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
