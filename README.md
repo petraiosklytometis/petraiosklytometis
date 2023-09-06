@@ -46,4 +46,10 @@ _Welcome to my GitHub profile!_
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
-![Snake animation](https://github.com/petraiosklytometis/petraiosklytometis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+)
