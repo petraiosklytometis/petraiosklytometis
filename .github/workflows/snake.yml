@@ -2,8 +2,6 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
-
-jobs:
     - name: generate-snake-game-from-github-contribution-grid
     steps:
       # Snake Animation
