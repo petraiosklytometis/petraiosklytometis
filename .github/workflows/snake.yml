@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
     - name: generate-snake-game-from-github-contribution-grid
     steps:
       # Snake Animation
