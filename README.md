@@ -14,14 +14,14 @@ _Welcome to my GitHub profile!_
 
 <img align="right" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670899140/Design_sem_nome_4_-removebg-preview_sp8e7v.png">
 
-### Minhas redes:
+### Network:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovmcosta/)
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://g.dev/petraiosklytometis)
 </div>
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
-### Tecnologias:
+### Technologies:
 
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
