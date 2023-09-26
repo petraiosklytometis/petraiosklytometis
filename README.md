@@ -8,7 +8,9 @@ _Welcome to my GitHub profile!_
 
 <img align="right" alt="Pedro-pic" height="300" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1670898275/Design_sem_nome_3_-removebg-preview_knxxrr.png">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=dracula&include_all_commits=true"/>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=petraiosklytometis&show_icons=true&theme=dracula" />
+</picture>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petraiosklytometis&show_icons=true&layout=compact&theme=dracula"/>
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
@@ -35,6 +37,10 @@ _Welcome to my GitHub profile!_
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Side Project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petraiosklytometis&repo=tumnus&theme=dracula&show_owner=true)](https://github.com/petraiosklytometis/tumnus)
+
 
 ![snake gif](https://github.com/petraiosklytometis/petraiosklytometis/blob/output/github-contribution-grid-snake-dark.svg)
 
